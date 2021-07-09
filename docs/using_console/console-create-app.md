@@ -2,7 +2,11 @@
 layout: default
 title: Creating applications
 parent: Advanced deployment options
+<<<<<<< HEAD:docs/using_console/console-create-app.md
 nav_order: 5
+=======
+nav_order: 7
+>>>>>>> 38a2ab21a2f39d1da02fef86336ac33dfb397873:docs/console-create-app.md
 description: "Creating applications in Fabric Operations Console"
 keywords: client application, Commercial Paper, SDK, wallet, generate a certificate, generate a private key, fabric gateway, APIs, smart contract
 ---

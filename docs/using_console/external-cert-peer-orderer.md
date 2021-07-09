@@ -2,7 +2,11 @@
 layout: default
 title: Using certificates from an external CA with your peer or ordering service
 parent: Advanced deployment options
+<<<<<<< HEAD:docs/using_console/external-cert-peer-orderer.md
 nav_order: 7
+=======
+nav_order: 5
+>>>>>>> 38a2ab21a2f39d1da02fef86336ac33dfb397873:docs/external-cert-peer-orderer.md
 description: "Using certificates from an external CA with your peer or ordering service in Fabric Operations Console"
 keywords: external CA, ordering service, import msp, organization msp
 ---
