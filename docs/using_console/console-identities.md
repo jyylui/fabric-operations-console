@@ -7,6 +7,7 @@ description: "Creating and managing identities in Fabric Operations Console"
 keywords: create identities, manage identities, Certificate Authorities, register, enroll, TLS CA, wallet, certificate expiration, delete user
 ---
 
+
 # Creating and managing identities
 
 The nodes of the Fabric Operatons Console are based on Hyperledger Fabric and builds permissioned fabric networks. This means that all participants of the Fabric Operatons Console consortium need to have identities that are continuously verified by Public Key Infrastructure. The Fabric Operatons Console allows you to create these identities by using your organization's Certificate Authorities (CAs). You need to store these identities in your console wallet so you can use them to operate your network.

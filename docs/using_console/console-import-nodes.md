@@ -7,6 +7,7 @@ description: "Advanced channel deployment and management in Fabric Operations Co
 keywords: import nodes, import CA, Certificate Authorities, import orderer, import MSP, import peer
 ---
 
+
 # Importing nodes, MSPs, and identities
 
 **Target audience:** This topic is designed for network operators who are responsible for creating, monitoring, and managing the operation console network.

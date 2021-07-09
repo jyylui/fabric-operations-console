@@ -13,7 +13,6 @@ When you create a channel, there are a number of advanced options that allow you
 
 **Target audience:** This topic is designed for network operators who are responsible for creating, monitoring, and managing channels.
 
-
 >**_TIP:_** The roles played by the various participants in channel creation, as well as the underlying method used to create and update the channel configuration, is inherited from the <a href="https://hyperledger-fabric.readthedocs.io/en/release-2.2/configtx.html" target="_blank">Hyperledger Fabric processes for creating and editing a channel <img src="../images/external.png" width="10" alt="external" valign="middle"></a>.
 
 The parameters that govern how channels function, from the organizations on the channel to their permissions to the policies, are all contained in the channel configuration. When you create a channel, you are asked to decide on a number of these parameters. Some options, such as the channel name, cannot be changed after a channel has been created, while other options can only be changed after the channel has been created.

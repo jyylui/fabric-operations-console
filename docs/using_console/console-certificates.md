@@ -2,11 +2,7 @@
 layout: default
 title: Managing organizations
 parent: Advanced deployment options
-<<<<<<< HEAD:docs/using_console/console-certificates.md
 nav_order: 6
-=======
-nav_order: 4
->>>>>>> 38a2ab21a2f39d1da02fef86336ac33dfb397873:docs/console-certificates.md
 description: "Managing organizations in Fabric Operations Console"
 keywords: admin certificate, Node OU, admin identity, expiration
 ---
@@ -14,6 +10,7 @@ keywords: admin certificate, Node OU, admin identity, expiration
 # Managing certificates
 
 Fabric Operatons Console is based on Hyperledger Fabric and builds permissioned fabric networks. Participants are known as members of the network, and their activities and access to network resources are verified continuously. 
+
 
 **Target audience:** This advanced topic is designed for system administrators or operators who are responsible for registering users, enrolling identities, and administering ordering services or channels. You should be familiar with Membership Service Providers (MSPs) and how they are created.
 
